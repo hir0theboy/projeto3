@@ -53,6 +53,11 @@ body {
     text-decoration: none;
 }
 
+.precos {
+    background-color: #2426a5;
+    color: #fff;
+}
+
 @media (max-width: 767px) {
     .carousel-item img {
         height: 280px;
